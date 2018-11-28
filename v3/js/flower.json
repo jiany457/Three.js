@@ -1,0 +1,21 @@
+{
+
+//"property name" : value;
+"name": "sunflower",
+"red" : 255,
+"green" : 250,
+"blue": 0
+"birds": [
+	{
+	"name":"panguine",
+	"height":165
+	},
+	{
+	"name":"okay",
+	"height":185
+	}
+]
+
+}
+
+//data.birds[1].height =  185 , 1 is the second one
